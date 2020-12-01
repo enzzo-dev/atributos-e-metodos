@@ -1,0 +1,13 @@
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.exe
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.deps.json
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.runtimeconfig.json
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.runtimeconfig.dev.json
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.dll
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\bin\Debug\netcoreapp3.1\atributos-e-metodos.pdb
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.csprojAssemblyReference.cache
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.AssemblyInfo.cs
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.csproj.CoreCompileInputs.cache
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.dll
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.pdb
+C:\Users\User\OneDrive\Área de Trabalho\atributos-e-metodos\obj\Debug\netcoreapp3.1\atributos-e-metodos.genruntimeconfig.cache
